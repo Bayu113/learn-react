@@ -1,0 +1,11 @@
+.square{
+  margin-right: 8px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.circle{
+  margin-right: 8px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
